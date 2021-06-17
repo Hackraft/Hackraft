@@ -32,7 +32,7 @@ No. The main aim of this series is to encourage the culture of project building 
 
 1. Make a GitHub Repository (and add your teammates as contributors)
 2. Drop the link to the repository in the `share-your-project` channel on Discord
-3. Prepare a Roadmap. Refer to Roadmap.md if you want a starting template.
+3. Prepare a Roadmap. Refer to [Roadmap.md](https://github.com/Hackraft/Hackraft/blob/master/Roadmap.md) if you want a starting template.
 
 <br>
 
